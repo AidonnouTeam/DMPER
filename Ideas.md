@@ -9,6 +9,7 @@
 * Trabajar elementos de batalla
 * Soporte para luchas en servidor o LAN
 * Añadir minijuegos para entrenar al digimon
+* Implementar varios templates de interfaz
 
 ## Cosas para algun dia
 
