@@ -8,6 +8,7 @@
 * Trabajar Elementos de juego principales (alimentar, y cosas asi)
 * Trabajar elementos de batalla
 * Soporte para luchas en servidor o LAN
+* Añadir minijuegos para entrenar al digimon
 
 ## Cosas para algun dia
 
@@ -15,3 +16,4 @@
 * Soporte para Android
 * Soporte para Android con sicronizacion
 * Soporte para Multtientrenamiento/Pelea con varios personajes
+* Implementar un modo de entrenamiento automatico (no sube tanto los stats como lo haria el manual)
