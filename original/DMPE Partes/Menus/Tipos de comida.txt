@@ -1,0 +1,12 @@
+= +0.5 Hunger
+ = +1 Hunger
+ = +2 Hunger
+
+= +0.5 Strength
+ = +1 Strength
+ = +2 Strength
+
+= +1 Hunger +1 Strength
+
+
+*Corre riesgo de enfermar si sube strength

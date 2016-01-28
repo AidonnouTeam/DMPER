@@ -1,0 +1,20 @@
+-Farm-
+
+Normal (2)
+Caminando (2)
+Comiendo (2)
+Defecando (1)
+Dormido (1)
+Enfermo (1)
+Feliz (1)
+Triste (1)
+Enojado (1)
+
+-Fight-
+
+Ataque
+Defensa
+Daño
+Especial 1
+Especial 2
+Especial 3

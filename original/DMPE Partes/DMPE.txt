@@ -1,0 +1,66 @@
+DMPE: Siglas de Digital Monster Progress Evolution.
+____________________________________________
+
+* Marco de 200 x 110 para mayor comodidad, tambien con motivo de que los sprites son mucho mas grandes que una lcd
+
+* Iconos del marco con profundidad
+
+* Nuevos sonidos de selección
+
+* Pantalla de inicio de las mismas dimensiones que la del DMPC
+
+* Pantalla principal con botones en otra posición
+
+* Nuevos fondos (Ahora tienen que ser creados netamente por nosotros)
+
+* Pantalla de selección de Digimon, ahora son 8 familias compuestas por los 8 verdaderos tipos de Digimon y reclasificados los cuales son:
+
+- Botamon: Dragon Road
+- Bubbmon: Insect
+- Choromon: Metal Empire
+- Pitchmon: Deep Savers
+- Punimon: Nature Spirit
+- Zurumon: Nightmare Soldier
+- Nyakimon: Jungle Troopers
+
+* Ahora los itens de Nombre de Tamer y Nombre de Digimon se colocan en la misma pantalla de selección de Digimon.
+
+* Al momento de romperse el Digiegg existe una animación que lleva a la aparición del Digimon en la pantalla.
+
+* Ahora existen 9 framas de movimientos para el Digimon, eso crea mas naturalidad y no un movimiento de bot, los movimientos pueden ir desde lanzar un ataque en la propia pantalla principal hasta parpadear.
+
+* En el Game Maker ya no se puede usar en la creación de sprites el boton "Center" para que el programa enfoque centradamente el sprite, ya que ahora todos los sprites tienen diferente tamaño
+
+* Se baja el enfoque de +2 al sprite en la variable Digimon de los objects para que el sprite tenga su tamaño original y no un zoom, esto con el motivo de que entren los Digimon mas grandes en el marco del menu principal.
+
+* Adhesión de nuevos alimentos en el menu del Digimon.
+
+* El menu principal en donde aparece el Digimon en el marco ahora se denomina "DigiGarden".
+
+* La sala de entrenamiento ahora se denomina Training Box.
+
+* Reemplazo de los viejos entrenamientos por otros totalmente distintos.
+
+* Nuevo efecto de Flush.
+
+* Ahora existe una nueva sub-pantalla muy parecida al menu del Digital Monster Ver. WonderSwan. alli se encuentran las opciones, el icono que lleva a la pantalla principal, la guia de imagenes en reemplazo a el F1.
+
+* Nuevo menu de selección de alimento, presionando el boton de alimento en el menu principal en forma de carne ahora lleva a un menu con todo lo que se le puede dar al Digimon y su valor nutricional, por ejemplo:
+
+- Melon tiene un valor de +2 Hunger, es decir incrementa +2 en el equivalente de los corazones en el DMPC.
+
+- Meat tiene un valor de +1, es decir incrementa +1 en el equivalente de los corazones en el DMPC.
+
+Etc.
+
+* Nuevo efecto de luz apagada con sonido diferente.
+
+* Nueva pantalla de stats es decir el primer icono de izquierda a derecha en el menu principal.
+
+* Nuevo sistema de humor en el Digimon. Ahora los iconos no iran presionando el boton de stats del menu principal, sino que van adheridos a el marco en la parte inferior, y se encienden cuando el humor cambia.
+
+NOTA:
+
+Alguno de estos puntos son solo ideas concepts que no se desarrollaron ya que no soy muy experto en el Game Maker, como dije soy mas diseñador, aunque se usar el programa y entiendo basicamente el lenguaje.
+
+Para ayudar a tener una idea mas clara se desarrollaron ejemplos graficos.

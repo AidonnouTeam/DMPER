@@ -1,0 +1,6 @@
+-La pantalla de entrenamientos (DigiGarden) sera la que se 
+   habia planeado luego sera remodelada.
+-Las ID Card no estaran disponibles por el momento, ya que se
+   cambiara su diseño una vez más.
+-Los digimon por ahora son solo 3... luego apareceran otros.
+-Solo los primeros 3 entrenamientos (ATK - DEF - SPE)

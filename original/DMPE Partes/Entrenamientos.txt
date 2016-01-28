@@ -1,0 +1,14 @@
+ATK - Bolsa de boxeo - Lanzamiento
+DEF - Defensa de pelotas - Gran guante
+SPD - Salto de cuerda - Carrera
+
+-PENDIENTE-
+HP  - Yoga - Cascada
+NSp - Saltos
+DS  - Nadar
+NSo - 
+WG  - Equilibrio
+ME  - Pensamiento
+VB  - 
+DR  - Grito
+JT  - 

@@ -1,0 +1,26 @@
+Iniciales:
+
+~Extra 1 (EX1)
+~Extra 2 (EX2)
+~Nature Spirits (NSP1)
+~Deep Savers (DS1)
+~Nightmare Soldiers (NSO1)
+~Wind Guardians (WG1)
+~Metal Empire (ME1)
+~Virus Busters (VB1)
+~Dragon's Roar (DR1)
+~Jungle Troopers (JT1)
+
+
+En la Tienda:
+
+~Extra 3 (EX3)
+~Extra 4 (EX4)
+~Nature Spirits (NSP2)
+~Deep Savers (DS2)
+~Nightmare Soldiers (NSO2)
+~Wind Guardians (WG2)
+~Metal Empire (ME2)
+~Virus Busters (VB2)
+~Dragon's Roar (DR2)
+~Jungle Troopers (JT2)
